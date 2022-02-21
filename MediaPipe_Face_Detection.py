@@ -47,7 +47,7 @@ while True:
                     # print(f'FACE CONFIDENCE: {round(face.score[0], 2)}')
                     
                     # Get the face bounding box and face key points coordinates.
-                    face_data = face.location_data
+                    # face_data = face.location_data
                     
                     # Display the face bounding box coordinates.
                     # xmin and width => img width   ymin and height => img height
