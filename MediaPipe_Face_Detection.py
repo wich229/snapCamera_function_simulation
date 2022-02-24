@@ -38,7 +38,7 @@ while True:
                 # Mouth Center -4
                 # Right Ear Tragion -5
                 # Left Ear Tragion -6
-                for face_no, face in enumerate(result.detections):
+                # for face_no, face in enumerate(result.detections):
                 
                     # Display the face number upon which we are iterating upon.
                     # print(f'FACE NUMBER: {face_no+1}')
